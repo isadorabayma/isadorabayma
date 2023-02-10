@@ -5,7 +5,8 @@ I'm a Full-Stack developer, just about to finish a web development course at Try
 - 🔭 I’m currently working on a bar table divider app.
 - 🌱 I’m currently learning Phyton and improving my css skills.
 
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 

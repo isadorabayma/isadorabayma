@@ -8,7 +8,8 @@ I'm a Full-Stack developer, just about to finish a web development course at Try
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorabayma&layout=compact&langs_count=16&theme=github_dark"/> </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

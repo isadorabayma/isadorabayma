@@ -1,22 +1,25 @@
 ### Hi there 👋
 
-I'm a Full-Stack developer, just about to finish a web development course at Trybe. I'm from Rio de Janeiro, graduated architect driven by challenges and problem solving who switched from physical to digital issues. 
+I'm a Full-Stack developer, by Trybe, a one year intensive web development course. I'm from Rio de Janeiro, graduated architect driven by challenges and problem solving who switched from physical to digital issues. 
 
-- 🔭 I’m currently working on a bar table divider app.
+- 🔭 I’m currently working on a bill divider app for groups.
 - 🌱 I’m currently learning Phyton and improving my css skills.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=vue-dark#gh-dark-mode-only"/> 
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=vue#gh-light-mode-only"/> 
+:rocket: Skills: JavaScript, React, Redux, Jest, Docker, Node.js, Express.js, Typescript, MySQL, Sequelize, MongoDB, Mocha.
 
-<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+:briefcase: Tools: VSCode, Trello, Heroku, GitHub, Vercel, Supabase.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorabayma&layout=compact&langs_count=16&theme=vue-dark#gh-dark-mode-only"/> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorabayma&layout=compact&langs_count=16&theme=vue#gh-light-mode-only"/> 
+<div align="center">
+  <a href="https://github.com/isadorabayma">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isadorabayma&show_icons=true&theme=vue-dark"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorabayma&layout=compact&langs_count=16&theme=vue-dark"/> 
+
+</div>
 
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,7 +41,7 @@ I'm a Full-Stack developer, just about to finish a web development course at Try
  
 <div>
   <a href = "mailto:isadora.bayma@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
 
   <a href="https://www.linkedin.com/in/isadora-bayma/">
